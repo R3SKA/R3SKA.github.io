@@ -1,1 +1,0 @@
-(function(){try{var e,t,n=document.querySelector("main.container");if(!n)return;if(e=n.querySelector(".grid"),!e)return;e.classList.contains("grid-two")||e.classList.add("grid-two"),t=n.querySelector(":scope > aside"),t&&!e.contains(t)&&(e.appendChild(t),t.classList.add("moved-into-grid"))}catch{}})()
